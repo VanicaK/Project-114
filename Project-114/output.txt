@@ -1,0 +1,10 @@
+Test 1:
+
+TypeError: '>' not supported between instances of 'str' and 'int'
+
+
+Test 2:
+
+EmilRefsnes
+TobiasRefsnes
+LinusRefsnes
